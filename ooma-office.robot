@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation   A demo to test Weather Underground
+Documentation   A demo to test Omma Office 
 Library         SeleniumLibrary
 
 *** Variables ***
